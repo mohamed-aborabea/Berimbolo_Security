@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    min-height: 100vh;
+    position: relative;
+    padding-bottom: 40px;
+}
+footer{
+    background-color: rgb(41, 41, 41);
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    height: 40px;
+}
+footer p{
+    margin: auto;
+}
